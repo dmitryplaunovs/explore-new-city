@@ -36,7 +36,6 @@ You can track your location history with many apps, e.g. _Google Maps_ (Android,
 
 6. At some point you will need to add an image of a map to the `maps` folder that will be used in your visualization<br>
 You can create one by using the share feature on [Open Street Map Export page](https://www.openstreetmap.org/export#map)
-
 <img src="images/openstreetmap.jpg" height="260">
 
 
@@ -53,8 +52,6 @@ Trace
 Heatmap
 
 <img src="images/heatmap.jpg" height="400">
-
-🙂
 
 ## License
 
