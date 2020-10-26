@@ -4,7 +4,7 @@ This is a [Python](https://www.python.org/) script that can convert your locatio
 
 This is me exploring Lisbon, Portugal, for 4 days in March 2019 🙂:
 
-<img src="lisbon.gif" style="max-height:400px;margin-bottom:25px;border-radius:8px;">
+<img src="images/lisbon.gif" height="400">
 
 ## Input / output
 
@@ -13,7 +13,7 @@ This is me exploring Lisbon, Portugal, for 4 days in March 2019 🙂:
 
 You can track your location history with many apps, e.g. _Google Maps_ (Android, iOS) or _GPSLogger_ (Android). Many of them offer a selection of export formats, but if CSV is not one of them, it can be still obtained by converting from KML or GPX.
 
-<img src="log.jpg" style="max-height:160px;border-radius:8px;">
+<img src="images/log.jpg" height="160">
 
 ## Requirements
 
@@ -37,7 +37,8 @@ You can track your location history with many apps, e.g. _Google Maps_ (Android,
 6. At some point you will need to add an image of a map to the `maps` folder that will be used in your visualization<br>
 You can create one by using the share feature on [Open Street Map Export page](https://www.openstreetmap.org/export#map)
 
-<img src="openstreetmap.jpg" style="max-height:260px;margin-left:33px;margin-bottom:25px;border-radius:8px;">
+<img src="images/openstreetmap.jpg" height="260">
+
 
 7. When you finish running the script, all plots will be exported to the `output` folder.
 
@@ -47,11 +48,11 @@ _The code snippets to create these visualizations are also included in the main 
 
 Trace
 
-<img src="sintra.gif" style="max-height:400px;margin-bottom:25px;border-radius:8px;">
+<img src="images/sintra.gif" height="400">
 
 Heatmap
 
-<img src="heatmap.jpg" style="max-height:400px;margin-bottom:25px;border-radius:8px;">
+<img src="images/heatmap.jpg" height="400">
 
 🙂
 
